@@ -3,7 +3,7 @@
 
 | Day | Kernel(s) Written | Description |
 |:---:|--------------------|-------------|
-| 1 | Vector Addition, Naive MatMul | Implemented two simple kernels, Reviewed basic CUDA programming model. |
+| 1 | [Vector Addition](day-1/vecAdd.cu), [Naive MatMul](day-1/matmul_naive.cu) | Implemented two simple kernels, Reviewed basic CUDA programming model. |
 | 2 | | |
 | 3 | | |
 | 4 | | |
