@@ -1,0 +1,2 @@
+- 100 day deep dive into writing GPU kernels. 
+- Inspired by Umar Jamil's challenge on his discord. 
