@@ -5,7 +5,7 @@
 |:---:|--------------------|-------------|
 | 1 | [Vector Addition](day-1/vecAdd.cu), [Naive MatMul](day-1/matmul_naive.cu) | Implemented two simple kernels, Reviewed basic CUDA programming model. |
 | 2 | [Row & Col MatMul](day-2/row_col_matmul.cu), [Tiled MatMul](day-2/tiled_matmul.cu)|pmpp ch.4 exercises done |
-| 3 | | |
+| 3 | [1D Convolution](day-3/1d_conv.cu)|pmpp ch.5 exercises done, Didn't get much time|
 | 4 | | |
 | 5 | | |
 | 6 | | |
