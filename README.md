@@ -8,7 +8,7 @@
 | 3 | [1D Convolution](day-3/1d_conv.cu)|pmpp ch.5 exercises done, Didn't get much time|
 | 4 | [ReLU](day-4/relu.cu), [Leaky ReLU](day-4/leaky_relu.cu), [SWiGLU](day-4/swiglu.cu)|Read pmpp ch.6, Kernels for activation functions|
 | 5 |[Corner turning](day-5/corner_turning.cu), [Tiled 2D conv](day-5/tiled_2d_conv.cu) |pmpp ch.6 exercises, read ch. 7|
-| 6 | | |
+| 6 |[3D Conv. Basic](day-6/3d_conv_basic.cu), [3D Conv. Constant F](day-6/3d_conv_const.cu), [3D Conv. tiled & const.](day-6/3d_conv_tiled_const.cu) |pmpp ch.7 exercises |
 | 7 | | |
 | 8 | | |
 | 9 | | |
