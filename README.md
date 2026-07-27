@@ -11,7 +11,7 @@
 | 6 |[3D Conv. Basic](day-6/3d_conv_basic.cu), [3D Conv. Constant F](day-6/3d_conv_const.cu), [3D Conv. tiled & const.](day-6/3d_conv_tiled_const.cu) |pmpp ch.7 exercises |
 | 7 | [Reduction](day-7/reduction.cu)|Basic Reduction kernel |
 | 8 | [Classic Softmax](day-8/softmax_basic.cu), [Reduction Sum](day-8/sum_reduction.cu)|Started pmpp ch.10, 2 basic kernels using reduction.|
-| 9 | | |
+| 9 |[Convergent Reduction](day-9/convergentSumReduction.cu), [Shared Memory](day-9/sharedMemorySum.cu), [Hierarchial Reduction](day-9/hierarchialReduction.cu) |finished pmpp ch.10|
 | 10 | | |
 | 11 | | |
 | 12 | | |
