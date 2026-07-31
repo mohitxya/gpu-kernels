@@ -13,7 +13,7 @@
 | 8 | [Classic Softmax](day-8/softmax_basic.cu), [Reduction Sum](day-8/sum_reduction.cu)|Started pmpp ch.10, 2 basic kernels using reduction.|
 | 9 |[Convergent Reduction](day-9/convergentSumReduction.cu), [Shared Memory](day-9/sharedMemorySum.cu), [Hierarchial Reduction](day-9/hierarchialReduction.cu) |finished pmpp ch.10|
 | 10 |[Reduction with thread coarsening](day-10/reductionThreadCoarsening.cu) |pmpp ch.10 exercises |
-| 11 | | |
+| 11 |[Profiled Tiled matmul NCU](day-11/ncu_profiling.cu) |[12 hours CUDA](https://www.youtube.com/watch?v=86FAWCzIe_4) |
 | 12 | | |
 | 13 | | |
 | 14 | | |
