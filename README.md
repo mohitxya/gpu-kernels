@@ -14,9 +14,9 @@
 | 9 |[Convergent Reduction](day-9/convergentSumReduction.cu), [Shared Memory](day-9/sharedMemorySum.cu), [Hierarchial Reduction](day-9/hierarchialReduction.cu) |finished pmpp ch.10|
 | 10 |[Reduction with thread coarsening](day-10/reductionThreadCoarsening.cu) |pmpp ch.10 exercises |
 | 11 |[Profiled Tiled matmul NCU](day-11/ncu_profiling.cu) |[12 hours CUDA](https://www.youtube.com/watch?v=86FAWCzIe_4) |
-| 12 |[CuBLAS SGEMM](day-12/cuBLAS_example.cu), [CuBLAS-Lt example](day-12/CuBLASlt_example.cu) |Read about CuBLAS, CuBLAS-Lt & CuDNN API (Overview) |
-| 13 | |[Tensor cores evolution](https://newsletter.semianalysis.com/p/nvidia-tensor-core-evolution-from-volta-to-blackwell) |
-| 14 | | |
+| 12 |[CuBLAS SGEMM](day-12/cuBLAS_example.cu), [CuBLAS-Lt example](day-12/CuBLASlt_example.cu), [CuDNN example](day-12/CuDNN_example.cu) |Read about CuBLAS, CuBLAS-Lt & CuDNN API (Overview) |
+| 13 |[Triton fused softmax](day-13/triton_fused_softmax.py) |[Tensor cores evolution](https://newsletter.semianalysis.com/p/nvidia-tensor-core-evolution-from-volta-to-blackwell) |
+| 14 |[mini-vllm](https://github.com/mohitxya/mini-vllm) |Read about nanovllm, started building a mini-vllm|
 | 15 | | |
 | 16 | | |
 | 17 | | |
