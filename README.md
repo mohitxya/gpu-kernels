@@ -15,7 +15,7 @@
 | 10 |[Reduction with thread coarsening](day-10/reductionThreadCoarsening.cu) |pmpp ch.10 exercises |
 | 11 |[Profiled Tiled matmul NCU](day-11/ncu_profiling.cu) |[12 hours CUDA](https://www.youtube.com/watch?v=86FAWCzIe_4) |
 | 12 |[CuBLAS SGEMM](day-12/cuBLAS_example.cu), [CuBLAS-Lt example](day-12/CuBLASlt_example.cu) |Read about CuBLAS, CuBLAS-Lt & CuDNN API (Overview) |
-| 13 | | |
+| 13 | |[Tensor cores evolution](https://newsletter.semianalysis.com/p/nvidia-tensor-core-evolution-from-volta-to-blackwell) |
 | 14 | | |
 | 15 | | |
 | 16 | | |
