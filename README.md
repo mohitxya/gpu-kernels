@@ -20,7 +20,7 @@
 | 15 |[1D Blocktiling](day-15/1d_blocktiling.cu) |1D Blocktiling, GEMM tutorial by Simon Boehm|
 | 16 |[2D Blocktiling](day-16/2d_blocktiling.cu) |2D Blocktiling, GEMM tutorial by Simon Boehm|
 | 17 |[Vectorized access](day-17/vectorized.cu) |Vectorize SMEM and GMEM, same tutorial|
-| 18 | |Autotune and warptiling|
+| 18 |[Best performing kernel](day-18/best_vectorized.cu) |Autotune and warptiling|
 | 19 | |06/08/2026 |
 | 20 | | |
 | ... | | |
