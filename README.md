@@ -21,7 +21,7 @@
 | 16 | |2D Blocktiling, GEMM tutorial by Simon Boehm|
 | 17 | |Vectorize SMEM and GMEM, same tutorial|
 | 18 | |Autotune and warptiling|
-| 19 | | |
+| 19 | |06/08/2026 |
 | 20 | | |
 | ... | | |
 | 100 | | |
