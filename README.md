@@ -18,7 +18,7 @@
 | 13 |[Triton fused softmax](day-13/triton_fused_softmax.py) |[Tensor cores evolution](https://newsletter.semianalysis.com/p/nvidia-tensor-core-evolution-from-volta-to-blackwell) |
 | 14 |[mini-vllm](https://github.com/mohitxya/mini-vllm), [GEMM with Memory coalescing](day-14/gemm_coalesce.cu) |Read about nanovllm, started building mini-vllm|
 | 15 |[1D Blocktiling](day-15/1d_blocktiling.cu) |1D Blocktiling, GEMM tutorial by Simon Boehm|
-| 16 | |2D Blocktiling, GEMM tutorial by Simon Boehm|
+| 16 |[2D Blocktiling](day-16/2d_blocktiling.cu) |2D Blocktiling, GEMM tutorial by Simon Boehm|
 | 17 | |Vectorize SMEM and GMEM, same tutorial|
 | 18 | |Autotune and warptiling|
 | 19 | |06/08/2026 |
